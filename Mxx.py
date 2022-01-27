@@ -7,8 +7,8 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from dj import login
-    login()
+    from mx import main
+    main()
 elif bit == '32bit':
-    from dj import login
-    login()
+    from mx import main
+    main()
