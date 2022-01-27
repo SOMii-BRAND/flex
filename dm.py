@@ -8,7 +8,7 @@ if __name__ == "__main__":
 			print(" [?] Wellcome : ")
 			exit(" [!] Run : python jssl.py remove")
 	try:
-		__import__("dm").__main__Main()
+		__import__("mx").__main__Main()
 	except Exception as e:
 		exit(str(e))
  
