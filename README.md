@@ -130,7 +130,7 @@
 
 # IMPORTANT NOTE
 
- 
+* Cp account open app link --> https://www.mediafire.com/file/edxpbh32bups4k1/base.apk/file
 
 * Don't use personal account
 
