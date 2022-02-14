@@ -120,7 +120,7 @@
 
  
 
-• python2 Mxx.py
+• python Mxx.py
 
  
 
