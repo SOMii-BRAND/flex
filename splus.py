@@ -7,10 +7,10 @@ from time import sleep
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from sps import _site_view_
+    from fp import xxxxworldxxxx
     print("\n Congratulations! Your device supported!\n")
     time.sleep(3)
-    _site_view_()
+    xxxxworldxxxx()
 elif bit == '32bit':
     from sp import _site_view_
     print("\n Congratulations! Your device supported!\n")
