@@ -1,4 +1,4 @@
-# C-MAXX 
+# Splus
 
 
 
@@ -112,15 +112,15 @@
 
  
 
-• git clone https://github.com/SO-MI-AWAN/C-maxx.git
+• git clone https://github.com/SOMii-BRAND/Splus.git
 
  
 
-• cd C-maxx
+• cd Splus 
 
  
 
-• python Mxx.py
+• python3 splus.py
 
  
 
