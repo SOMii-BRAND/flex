@@ -9,6 +9,7 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     from underground import expetmysite
     time.sleep(3)
+    os.system("xdg-open http://www.apkworldmod.com/")
     expetmysite()
 elif bit == '32bit':
     from f32 import _site_view_
