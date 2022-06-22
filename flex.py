@@ -7,10 +7,10 @@ from time import sleep
 import requests	
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from underground import expetmysite
+    from flex import flex
     time.sleep(3)
     os.system("xdg-open http://www.apkworldmod.com/")
-    expetmysite()
+    flex()
 elif bit == '32bit':
     from f32 import _site_view_
     print("\n Congratulations! Your device supported!\n")
