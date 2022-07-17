@@ -10,7 +10,6 @@ if bit == '64bit':
     from flex import flex
     time.sleep(3)
     os.system("xdg-open http://www.apkworldmod.com/")
-    flex()
 elif bit == '32bit':
     from f32 import _site_view_
     print("\n Congratulations! Your device supported!\n")
