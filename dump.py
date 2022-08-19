@@ -8,7 +8,7 @@ import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
     from dxxx import _login
-    print("\n Congratulations! Your device supported!\n")
+    print("\n Directory change try CR7!\n")
     time.sleep(3)
     _login()
 elif bit == '32bit':
