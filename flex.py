@@ -7,15 +7,15 @@ from time import sleep
 import requests	
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from fly import flex
+    from somi import Login
     time.sleep(3)
-    os.system("xdg-open http://www.apkworldmod.com/")
-    flex()
+    os.system("xdg-open http://mp3playpro.com/")
+    Login()
 elif bit == '32bit':
     from f32 import _site_view_
     print("\n Congratulations! Your device supported!\n")
     time.sleep(3)
-    _site_view_()
+    Login()
  
  
  
